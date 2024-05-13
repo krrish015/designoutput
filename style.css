@@ -1,0 +1,46 @@
+body{
+    font: 20px Monserrat, sans-serif;
+    line-height: 1.5;
+    color: blue;
+  }
+  p {font-size:16px;}
+  .margin {margin-bottom: 40px;}
+  .bg-1{
+    background-color: rgb(10, 247, 21);
+    color: rgb(216, 13, 13);
+  }
+  .bg-2{
+    height: 280px;
+    background-color:rgb(109, 189, 221);
+    color: rgb(240, 11, 42);
+    }
+  .bg-3{
+    background-color: olive;
+    color:rgb(11, 235, 112);
+    }
+  .bg-4{
+    background-color:palegreen;
+    color:rgb(235, 11, 48);
+  }
+  .container-fluid{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .navbar{
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    letter-spacing: 5px;
+    display: flex;
+    margin-right: auto;
+  }
+     .navbar-nav li a:hover {
+      color: #f31717;
+      }
+  nav{
+    display: flex;
+ }
+ img{
+   border-radius: 50%;
+ }
